@@ -1,0 +1,4 @@
+baseURL = "http://commongroundspodcast.com/"
+languageCode = "en-us"
+title = "Common Grounds Podcast"
+theme = "arabica"
